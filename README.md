@@ -1,7 +1,7 @@
 
 # EventPro
 
- is an easy-to-use event management platform where users can view and register for various events. The platform allows users to submit their contact details (email, name, and contact number) to register for events. Admins can manage the events, view registrations, and also interact with users through a contact form.
+EventPro is an easy-to-use event management platform where users can view and register for various events. The platform allows users to submit their contact details (email, name, and contact number) to register for events. Admins can manage the events, view registrations, and also interact with users through a contact form.
 
 ## Features
 
